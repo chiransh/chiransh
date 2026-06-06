@@ -6,9 +6,8 @@
 <br/>
 
 <!-- Social / Contact Badges -->
-[![Upwork](https://img.shields.io/badge/Hire%20Me%20on-Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiransh-g-b8b1ab85/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gulatichiransh@gmail.com)
 
 </div>
 
@@ -63,7 +62,7 @@ My work sits at the intersection of **LLMs, RAG systems, and workflow automation
 
 ## 🚀 Featured Projects
 
-> These two projects demonstrate my core Upwork skill set end-to-end.
+> These two projects demonstrate my skill set end-to-end.
 
 ---
 
